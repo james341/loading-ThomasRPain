@@ -137,7 +137,9 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "Unused Opening Title Theme.ogg", name: "Nations - Installation Music"},
+	{ogg: "duke.ogg", name: "Nations - Installation Music"},
+	{ogg: "post_train.ogg", name: "Nations - Installation Music"},
+	{ogg: "skarloey.ogg", name: "Nations - Installation Music"},
 	{ogg: "Seasiderun.ogg", name: "Nations - Installation Music"},
 	{ogg: "viaductsong.ogg", name: "Nations - Installation Music"},
 ];
@@ -183,7 +185,6 @@ var l_messages = [
         "Animatronics cannot exit the restaurant They cannot chase players outside the restaurant, but they can do /me grabs child before they leave the restaurant!",
         "These rules are in place for the general health of the community. They exist for the sole purpose of helping the community prosper and expand!",
         "ERP is strictly Forbidden! - Erotic roleplay is not allowed on the server!  IT IS A BANNABLE OFFENSE!",
-        "It Is forbidden to attack with a splash through props, walls, outside the territory of the pizzeria. It is also forbidden to intentionally attack animatronics and plush toys while outside the territory of the pizzeria. It is forbidden to climb stairs (excl. Purple Guy in the guise of a security guard. Punishment: warn / Ban 10-20min!",
         "No jokes about mental illnesses, Sexualities, or religions/political stuff. (Ex. Cancer, Autism, Gay, Etc!",
         "No concentration Camps or inappropriate structures. (Racist/Pornographic/Bashing of religions etc are not tolerated!",
         "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
