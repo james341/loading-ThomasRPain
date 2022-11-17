@@ -162,7 +162,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Do not skybase. Your base will be removed, and you will be warned!",
 	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
-	"DDoS or the publicising of another member's private information (DOX) will result in a permanent ban. (This includes any "hacking" threats as well!",
+	"DDoS or the publicising of another member's private information (DOX) will result in a permanent ban. (This includes any hacking threats as well!",
         "Disrespecting any of our players and/or staff members for any reason, under any circumstances, is strongly forbidden!",
         "Advertising a platform/service can risk in punishment if done too much (ie: continuos attempts to advertise any service/platform which you own and/or are a high-ranking member!",
         "You are not a superman. You cannot attack a group of people that is 2 times the size of your group. Example: 1 by 2, 2 by 4, and so on. (excl. self-defense) [Punishment: warn / Ban 10-20min!", 
