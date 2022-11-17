@@ -160,30 +160,28 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Citizens are Including all Citizen's jobs and jobs which have Citizen properties! These will be cut down into 2 Category’s which are : - Children: Children's job – Ungrateful Toddler – Fat Kid – Bully]!",
+	"Do not skybase. Your base will be removed, and you will be warned!",
 	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
-	"English-only server. If you speak other languages, the rest of the chat cannot participate in the discussion, so your messages are like spam. Also, the moderators cannot do their job effectively if they don't understand the language you're speaking!",
-        "Disrespecting any of our players and/or staff members for any reason, under any circumstances is strongly forbidden!",
+	"DDoS or the publicising of another member's private information (DOX) will result in a permanent ban. (This includes any "hacking" threats as well!",
+        "Disrespecting any of our players and/or staff members for any reason, under any circumstances, is strongly forbidden!",
         "Advertising a platform/service can risk in punishment if done too much (ie: continuos attempts to advertise any service/platform which you own and/or are a high-ranking member!",
         "You are not a superman. You cannot attack a group of people that is 2 times the size of your group. Example: 1 by 2, 2 by 4, and so on. (excl. self-defense) [Punishment: warn / Ban 10-20min!", 
         "No Racism or discrimination on textscreens, prop building, in voice chat, text chat, or anywhere else!",
         "Doxxing is the posting of identifying information about yourself or someone else. Doxxing is against the rules on Model. Even if you are an adult, doxxing yourself may encourage younger members of the model to do the same, so all forms of it are banned. There are several things that constitute doxxing!",
-        "Make lewd jokes, but try not to be too vulgar, because it can make everyone else in the Server feel uncomfortable. Don't post pornographic images!",
-        "Animatronics such as the Withered once and the Golden once have to stay in the Basement UNLESS the basement door is open. - Asking an Admin to open the Door will not help !! - Changing jobs to open the door and then changing jobs back to an Animatronic count as Failrp and will result in a warning!",
-        "You may not kill someone using discrimination based upon their race, sexual orientation, sex, etc. Doing such will be considered a higher count of RDM, and is subject to an immediate ban!",
-        "KOS signs most are clearly placed at the entrance of a KOS area it must be sized and colored clearly any attempts to bait people into areas with obscure KOS signs will result in punishment from staff!",
-        "Fear RP is in effect - respond to situations like you would in real life. For example, if someone pulls a gun on you and you are unarmed, you must follow their commands!",
-        "RP is acting out the role of your character within the game. Behave as you would in your character's place in the context of the situation!",
-        "Moderators reserve the right to punish/warn a user even if something isn't on the rules. (As long as it is fair, obviously!",
+        "You may not kill someone using discrimination based on their race, sexual orientation, sex, etc. Doing so will be considered a higher count of RDM and is subject to an immediate ban!",
+        "KOS signs are typically placed at the entrance to a KOS area; they must be clearly sized and colored; any attempts to lure people into areas with obscure KOS signs will result in staff punishment!",
+        "Fear RP is in effect—respond to situations like you would in real life. (For example, if someone pulls a gun on you and you are unarmed, you must follow their commands!",
+        "RP is acting out the role of your character within the game. (Behave as you would in your character's place in the context of the situation!",
+        "ALSO, NOTICE THAT: Staff has the final say; if they tell you to stop, you must stop.Otherwise, consider yourself forewarned!",
         "You can only have a maximum of three fading door entries/exits in your base (Fading doors that are used as doors to funnel users) you can have up to four fading door windows, boxes, etc!",
-        "These rules are in place for the general health of the community. They exist for the sole purpose of helping the community prosper and expand!",
-        "No concentration Camps or inappropriate structures. (Racist/Pornographic/Bashing of religions etc are not tolerated!",
-        "It is forbidden to Prop Abuse, Fly on a prop / object, or to Lift, push someone, spam with a prop / object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Punishment: warn / Ban 10-20min!",
-        "You cannot take over places. If you raid a place, you must leave after you have accomplished your goal. Do NOT stay to prevent people from returning for an extended period of time!",
-        "If you are handcuffed, you must comply with the officer. Not doing so can be considered FailRP. If the police officer gets distracted and leaves you alone, you may attempt an escape!",
-        "If somebody is wanted you may AOS/KOS the person. In order to KOS, you must warn the criminal at least 3 times to stop Moving. If they comply, you must arrest them instead!",
-        "Any violations within these rules will have our loyal fellow mods give you a warning, if you continue to violate the rules it will result in a kick out or if major, banned. So pls, try not to cause trouble. Have a good day!",
-        "KOS signs most are clearly placed at the entrance of a KOS area it must be sized and colored clearly any attempts to bait people into areas with obscure KOS signs will result in punishment from staff!"
+        "Do not impersonate other players, staff, content creators, etc!",
+        "No concentration camps or inappropriate structures Racist/pornographic/religious bashing, for example, is not tolerated!",
+        "It is forbidden to prop abuse, fly on a prop or object, lift, push, or spam someone with a prop or object, as well as climb props that do not obey the laws of physics (you CAN build stairs) and build non-physical structures. It is also forbidden to build near the fountain and in the pizzeria. [Penalty: a warning or a ban for 10-20 minutes!",
+        "You cannot take over positions. If you raid a place, you must leave after you have accomplished your goal. Do not stay to prevent people from returning for an extended period of time!",
+        "If you are handcuffed, you must comply with the officer. Failure to do so will result in a FailRP. If the police officer gets distracted and leaves you alone, you may attempt to escape!",
+        "If somebody is wanted, you may AOS or KOS the person. In order to KOS, you must warn the criminal at least three times to stop moving. If they comply, you must arrest them instead!",
+        "Any violations within these rules will have our loyal fellow moderators give you a warning; if you continue to violate the rules, it will result in a kick out or, if major, a ban. So please try not to cause trouble. Have a good day!",
+        "When playing as any Police Officer class, don't abuse it. If you do, you will be blacklisted (and possibly banned). Keep your IC name realistic, not a username. It will be changed if it is found unrealistic!"
 
 ];
 
