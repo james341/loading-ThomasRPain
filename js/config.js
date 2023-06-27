@@ -142,7 +142,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "islandsodorlong.ogg", name: "【AN】 - Installation Music"},
-	{ogg: "themesupermariobrosthomas.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "projecttigermothdoodday.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "skarloey.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "Seasiderun.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "viaductsong.ogg", name: "【AN】 - Installation Music"},
