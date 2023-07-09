@@ -143,6 +143,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "islandsodorlong.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "looknevernevergiveujp.ogg", name: "【AN】 - Installation Music"},
+	{ogg: "post_train.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "duke.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "fishingoriginalmusicusdub.ogg", name: "【AN】 - Installation Music"},
 	{ogg: "skarloey.ogg", name: "【AN】 - Installation Music"},
